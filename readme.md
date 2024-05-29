@@ -26,7 +26,7 @@ Never stop learning, never stop growing. Level up something new every day!
 <!-- Tech Stack -->
 ### 🛠 &nbsp;Tech Stack :
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;background-color:#fbfbfb;">
   <!-- C -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50" />
 
