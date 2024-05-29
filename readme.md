@@ -34,7 +34,7 @@ Never stop learning, never stop growing. Level up something new every day!
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" />
 
   <!-- C# -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="C#" width="50" height="50" />
+  <img src="/c#logo.png" alt="C#" width="50" height="50" />
 
   <!-- Unity -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="50" height="50" />
@@ -73,13 +73,13 @@ Never stop learning, never stop growing. Level up something new every day!
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50" />
 
   <!-- NestJS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/NestJS.svg" alt="NestJS" width="50" height="50" />
+  <img src="/nestjs.svg" alt="NestJS" width="50" height="50" />
 
   <!-- MySQL -->
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50" />
 
   <!-- Prisma -->
-  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Logos/PNG/Prisma-DarkBackground.png" alt="Prisma" width="50" height="50" />
+  <img src="/prisma.svg" style="background-color:white;" alt="Prisma" width="50" height="50" />
 
   <!-- Bootstrap -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50" />
