@@ -32,7 +32,7 @@ Never stop learning, never stop growing. Level up something new every day!
 
 Here are the logos of the technologies used in this project:
 
-```html
+html
 <!-- C -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50" />
 
@@ -92,7 +92,7 @@ Here are the logos of the technologies used in this project:
 
 <!-- Tailwind CSS -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50" />
-```
+
 </p>
 
 ---
