@@ -34,7 +34,7 @@ Never stop learning, never stop growing. Level up something new every day!
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50" />
 
   <!-- C# -->
-  <img src="/c#logo.png" alt="C#" width="50" height="50" />
+  <img src="/csharp-logo.png" alt="C#" width="50" height="50" />
 
   <!-- Unity -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="50" height="50" />
@@ -52,7 +52,7 @@ Never stop learning, never stop growing. Level up something new every day!
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50" />
 
   <!-- Next.js -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50" />
+  <img src="/nextjs.svg" alt="Next.js" width="50" height="50" />
 
   <!-- TypeScript -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" alt="TypeScript" width="50" height="50" />
