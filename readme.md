@@ -4,22 +4,12 @@ Sup, I'm Shishir Adhikari
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=adkshishir&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="shishir" />
 <br/>
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;%20Founder%20and%20Content%20Writer%20of%20shishir.com;Computer+Science+Student;Music%20|%20Movie%20|%20Sports%20|%20%20Enthusiastic&center=true&width=480&height=45"></a>
-</p>
-<hr/>
 
 <!-- About Me -->
-### :man_technologist: &nbsp;About Me :
-I build with React. I study CS. I never stop learning new things.
-- 🔭 Building React App in **Skybase Innovations** 
-- 🌱 Always learning - currently **Nest js**
-- 💬 **Mysql express React Node** - let's talk code!
-- 🌎 Open to remote work opportunities
-- ⚡ When I'm not coding, you can find me jamming to music or catching movies
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Never stop learning, never stop growing. Level up something new every day!
+🌱 I’m currently learning **WEB Development Full-Stack**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
 
@@ -99,8 +89,5 @@ Never stop learning, never stop growing. Level up something new every day!
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/adkshishir#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=default"/></a><a href="https://github.com/adkshishir#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/adkshishir#gh-light-mode-only"><img src="https://raw.githubusercontent.com/adkshishir/adkshishir/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/adkshishir#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/adkshishir/adkshishir/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
