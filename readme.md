@@ -9,9 +9,9 @@ Sup, I'm Shishir Adhikari
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 I’m currently learning **WEB Development MERN-stack**
- 
+ <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;background-color:#fbfbfb;">
   <!-- MySQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50" />
+&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50" />
   <!-- Express -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50" />
      <!-- React -->
@@ -19,7 +19,7 @@ Sup, I'm Shishir Adhikari
     <!-- Node.js -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" height="50" />
 
-
+</div>
 
 
 
