@@ -8,7 +8,22 @@ Sup, I'm Shishir Adhikari
 <!-- About Me -->
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently learning **WEB Development Full-Stack**
+🌱 I’m currently learning **WEB Development MERN-stack**
+ 
+  <!-- MySQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50" />
+  <!-- Express -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50" height="50" />
+     <!-- React -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50" />
+    <!-- Node.js -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50" height="50" />
+
+
+
+
+
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
