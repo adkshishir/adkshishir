@@ -11,46 +11,18 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
 
 ## 🚀 About Me
+I'm a passionate developer currently working on a **Hospital Management System** using **Prisma** and **MySQL**. I build web apps with **Next.js, NestJS,** and **React**, and I continuously explore new technologies to refine my workflow.
 
-const shishir = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "C++", "C#"],
-  frameworks: ["React", "Next.js", "NestJS", "Express"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  tools: ["Prisma", "Docker", "Neovim", "Git"],
-  architecture: ["Microservices", "REST APIs", "MVC"],
-  hobbies: ["Gaming", "Content Creation", "Open Source"],
-  currentProject: "Building a Hospital Management System with Prisma & MySQL",
-  youtubeChannel: "King Of Royale - Clash Royale Content"
-};
-🛠 Tech Stack
-Frontend
-React
-Next.js
-Tailwind CSS
-HTML5
-CSS3
+I love leveraging **Neovim** and the command line to maximize coding efficiency. When I'm not coding, I create **Clash Royale content** on my channel **King Of Royale**.
 
-Backend
-Node.js
-NestJS
-Express
-
-Databases
-MySQL
-PostgreSQL
-Prisma
-
-Tools & Others
-Git
-Neovim
-Docker
-TypeScript
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+</p>
 
 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adkshishir&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkshishir&layout=compact&langs_count=8&theme=radical" alt="Top Languages" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=radical" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adkshishir&theme=radical" width="90%" alt="Activity Graph"> </div>
 🎮 Fun Facts
-🔭 I'm currently obsessed with optimizing my Neovim setup
+🔭 I'm currently I writing code .....
 
 🌱 Learning: Advanced TypeScript patterns and System Design
 
@@ -61,32 +33,6 @@ TypeScript
 💬 Ask me about: Game development or full-stack architecture
 
 ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
-
-🎬 King Of Royale
-<div align="center"> <a href="https://youtube.com/@KingOfRoyale"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <br><br> <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200" alt="Clash Royale GIF"> </div>
-🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/shishir-adhikari-0b1b3b1b9/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:adhikarishishir55@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p><p align="center"> <img src="https://raw.githubusercontent.com/adkshishir/adkshishir/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </p> 
-
-<!-- Header -->
-<h1 align="center">
-  Hello, I'm Shishir Adhikari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-<p align="center">
-  <a href="https://github.com/adkshishir">
-    <img src="https://komarev.com/ghpvc/?username=adkshishir&label=Profile%20Views&color=0e75b6&style=flat" alt="shishir" />
-  </a>
-</p>
-
-<!-- About Me -->
-## About Me
-I'm a passionate developer currently working on a **Hospital Management System** using **Prisma** and **MySQL**. I build web apps with **Next.js, NestJS,** and **React**, and I continuously explore new technologies to refine my workflow.
-
-I love leveraging **Neovim** and the command line to maximize coding efficiency. When I'm not coding, I create **Clash Royale content** on my channel **King Of Royale**.
-
-<p align="center">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-</p>
-
 <!-- Tech Stack -->
 ## 🛠 Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -118,12 +64,6 @@ I love leveraging **Neovim** and the command line to maximize coding efficiency.
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50" />
 </div>
 
-<!-- Recent Projects & Interests -->
-## 🚀 Recent Projects & Interests
-- **Hospital Management System**: Developing a robust system using Prisma, MySQL, and NestJS.
-- **Massive + TypeScript**: Recently, I've been exploring how to integrate TypeScript with Massive to improve type safety and code quality in data-intensive applications.
-- **Clash Royale Content**: Check out my [King Of Royale](#) channel for tips and tricks!
-
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 <table>
@@ -147,6 +87,20 @@ I love leveraging **Neovim** and the command line to maximize coding efficiency.
     </td>
   </tr>
 </table>
+
+## 🚀 Recent Projects & Interests
+- **Hospital Management System**: Developing a robust system using Prisma, MySQL, and NestJS.
+- **Massive + TypeScript**: Recently, I've been exploring how to integrate TypeScript with Massive to improve type safety and code quality in data-intensive applications.
+- **Clash Royale Content**: Check out my [King Of Royale](#) channel for tips and tricks!
+
+🎬 King Of Royale
+<div align="center"> <a href="https://youtube.com/@KingOfRoyale"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <br><br> <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200" alt="Clash Royale GIF"> </div>
+🤝 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/shishir-adhikari-0b1b3b1b9/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:adhikarishishir55@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p><p align="center"> <img src="https://raw.githubusercontent.com/adkshishir/adkshishir/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </p> 
+
+
+
+
 
 <!-- Footer -->
 <p align="center">
