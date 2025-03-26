@@ -1,6 +1,6 @@
 # Shishir Adhikari
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Shishir+Adhikari;Full-Stack+Developer;Open-Source+Enthusiast;Clash+Royale+Creator)](https://github.com/adkshishir)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Shishir;Full-Stack+Developer;Open-Source+Enthusiast;Clash+Royale+Creator)](https://github.com/adkshishir)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adkshishir&color=blueviolet)
 
@@ -60,10 +60,10 @@ I love leveraging **Neovim** and the command line to maximize coding efficiency.
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/shishir-adhikari-0b1b3b1b9/">
+  <a href="https://www.linkedin.com/in/shishir-adhikari-917432254/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:adhikarishishir55@gmail.com">
+  <a href="mailto:adhikarishishir50@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
