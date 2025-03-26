@@ -12,7 +12,6 @@
 
 ## 🚀 About Me
 
-```javascript
 const shishir = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "C++", "C#"],
@@ -66,4 +65,4 @@ TypeScript
 🎬 King Of Royale
 <div align="center"> <a href="https://youtube.com/@KingOfRoyale"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a> <br><br> <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200" alt="Clash Royale GIF"> </div>
 🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/shishir-adhikari-0b1b3b1b9/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:adhikarishishir55@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p><p align="center"> <img src="https://raw.githubusercontent.com/adkshishir/adkshishir/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </p> ```
+<p align="center"> <a href="https://linkedin.com/in/shishir-adhikari-0b1b3b1b9/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:adhikarishishir55@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p><p align="center"> <img src="https://raw.githubusercontent.com/adkshishir/adkshishir/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </p> 
