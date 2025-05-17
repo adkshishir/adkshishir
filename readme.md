@@ -16,33 +16,6 @@ I love leveraging **Neovim** and the command line to maximize coding efficiency.
   <img src="https://skillicons.dev/icons?i=mysql,express,react,nodejs,c,cpp,cs,html,css,js,typescript,nextjs,nestjs,prisma,tailwind&theme=dark" alt="Tech Stack" />
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=adkshishir&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=adkshishir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adkshishir&layout=compact&langs_count=8&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkshishir&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-   ![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=dark")
-  </picture>
-</div>
 
 ## 🚀 Current Focus
 
