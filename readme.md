@@ -27,15 +27,10 @@ I leverage **Neovim** alongside the command line for maximum coding efficiency. 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adkshishir&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 📚 Most Used Languages
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkshishir&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
