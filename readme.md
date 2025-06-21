@@ -68,8 +68,8 @@
   </td>
 </tr>
 <tr>
-  <td colspan="2">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=radical" alt="GitHub Streak" />
+  <td align="center" colspan="2">
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=radical" alt="GitHub Streak" />
   </td>
 </tr>
 <tr>
