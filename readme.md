@@ -63,13 +63,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adkshishir&show_icons=true&theme=radical" alt="GitHub Stats" />
   </td>
   <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkshishir&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkshishir&layout=compact&theme=radical" alt="Top Languages" />
  
   </td>
 </tr>
 <tr>
   <td colspan="2">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=radical" alt="GitHub Streak" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adkshishir&theme=radical" alt="GitHub Streak" />
   </td>
 </tr>
 <tr>
