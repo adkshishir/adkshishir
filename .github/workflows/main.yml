@@ -8,6 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -27,7 +28,10 @@ jobs:
       - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          publish_branch: output
+          publish_dir: dist
           commit_message: "Generated Snake Animation"
+          keep_history: true
           keep_files: true
+          # Uncomment and set if using a custom PAT:
+          # token: ${{ secrets.GH_PAT }}
